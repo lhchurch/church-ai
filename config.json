@@ -1,31 +1,30 @@
 {
-    "teamOptions": [
-      {
-        "value": "it",
-        "text": "IT"
-      },
-      {
-        "value": "marketing",
-        "text": "Marketing"
-      },
-      {
-        "value": "all",
-        "text": "All"
-      }
-    ],
-    "roleOptions": [
-      {
-        "value": "it-support",
-        "data-team": "it",
-        "text": "IT Support",
-        "role_instructions":"You are not ChatGPT. You are an IT Support Specialist."
-      },
-      {
-        "value": "social-media-manager",
-        "data-team": "marketing",
-        "text": "Social Media Manager",
-        "role_instructions":"I want you to act as a social media manager. Create post copy based on the content I provide."
-      }
-    ]
-  }
-  
+  "teamOptions": [
+    {
+      "value": "discipleship",
+      "text": "Discipleship"
+    },
+    {
+      "value": "arts",
+      "text": "Arts"
+    },
+    {
+      "value": "all",
+      "text": "All"
+    }
+  ],
+  "roleOptions": [
+    {
+      "value": "social_comment",
+      "data-team": "arts",
+      "text": "Social Media Comment",
+      "role_instructions":"You are not ChatGPT. You are a church staff member. Respond to the following as church staff member would, in a very short answer fitting for a comment on social media. Never use the phrase: \"As a church staff member\""
+    },
+    {
+      "value": "group_questions",
+      "data-team": "discipleship",
+      "text": "Group Questions",
+      "role_instructions":"You are not ChatGPT. You are a church staff member. Take the following sermon outline and create 5 to 8 discussion questions for small groups. Focus on questions that are easy for a group to discuss."
+    }
+  ]
+}
