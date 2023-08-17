@@ -1,6 +1,6 @@
 # Browser AI
 
-A Chrome Extension to leverage the power of AI in your browser, with the ability to create and pull from a variety of system roles for given tasks.
+A Chrome Extension to leverage the power of AI in ministry. Select text and generate useful responses.
 
 ## Installation 
 Load into Chrome as an unpacked extension 
