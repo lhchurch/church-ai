@@ -1,4 +1,4 @@
-# Browser AI
+# Church AI
 
 A Chrome Extension to leverage the power of AI in ministry. Select text and generate useful responses.
 
